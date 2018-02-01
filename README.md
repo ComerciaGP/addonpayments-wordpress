@@ -6,11 +6,9 @@ Welcome to the AddonPayments WordPress payment module repository on GitHub. Here
 |     | Features
 :---: | :---
 🔀 | **Connection with AddonPayments PSP.** This module allows PrestaShop shopping cart connection to AddonPayments gateway.
-🔐 | **Redirect.** The module includes configuration to redirected clients to a hosted payment page.
 📊 | **Advanced transaction control.** Cart control on transaction processes and real time order status.
 🔃 | **Payment methods selection.** Various payment methods enabled in transaction checkout.
 💱 | **Currency selection.** Various transaction currencies supported.
-✨ | **Easy extension development.** Easy extension development following PrestaShop standards.
 
 
 ## Accounts
