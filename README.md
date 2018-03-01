@@ -24,11 +24,15 @@ First of all consider obtaining an account to start development.
 ## Documentation
 * [AddonPayments integration Documentation](https://desarrolladores.addonpayments.com/guides/XXXXXX.pdf)
 
-## Download Modules
+## Download Module
 
-* XXXXX [ Version X.X ](https://www.github.com/ComerciaGP/XXXXX)
+* AddonPayments Wordpress Plugin [ Version 1.0 ](https://www.github.com/ComerciaGP/addonpayments-wordpress)
 
-For installation, upload the zip file an click install.
+For installation:
+* Upload addonpayments folder to the /wp-content/plugins/ directory
+* Activate the plugin through the ‘Plugins’ menu in WordPress
+
+Or search for AddonPayments in your WordPress Dashboard and install it.
 
 ## Contributors 
 
